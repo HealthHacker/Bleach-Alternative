@@ -1,4 +1,4 @@
-# bleach-alternative
+# Bleach-Alternative
 Alternative to household bleach using non-toxic ingredients.
 
 Version: 1.0.0
